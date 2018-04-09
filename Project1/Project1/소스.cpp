@@ -89,7 +89,8 @@ void main()
 			if (Key == 3)
 			{
 				system("cls");
-				printf("æ∆ΩŒ ≈ª√‚!!");
+				printf("æ∆ΩŒ ≈ª√‚!!\n");
+				printf("∞£¥Ê!!");
 				system("pause");
 				return;
 			}
