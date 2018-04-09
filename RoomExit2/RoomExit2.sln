@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RoomExit2", "RoomExit2\RoomExit2.vcxproj", "{566771F6-3DFC-49FE-9AC6-69EC47873281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{566771F6-3DFC-49FE-9AC6-69EC47873281}.Debug|x64.ActiveCfg = Debug|x64
+		{566771F6-3DFC-49FE-9AC6-69EC47873281}.Debug|x64.Build.0 = Debug|x64
+		{566771F6-3DFC-49FE-9AC6-69EC47873281}.Debug|x86.ActiveCfg = Debug|Win32
+		{566771F6-3DFC-49FE-9AC6-69EC47873281}.Debug|x86.Build.0 = Debug|Win32
+		{566771F6-3DFC-49FE-9AC6-69EC47873281}.Release|x64.ActiveCfg = Release|x64
+		{566771F6-3DFC-49FE-9AC6-69EC47873281}.Release|x64.Build.0 = Release|x64
+		{566771F6-3DFC-49FE-9AC6-69EC47873281}.Release|x86.ActiveCfg = Release|Win32
+		{566771F6-3DFC-49FE-9AC6-69EC47873281}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {038D0085-762A-4CFC-B3BF-C0AFEC22F337}
+	EndGlobalSection
+EndGlobal
